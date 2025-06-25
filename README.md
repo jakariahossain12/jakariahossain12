@@ -18,8 +18,9 @@ I'm open to new opportunities, collaborations, and freelance projects. Let's con
 
 - 🚀 Exploring advanced **Next.js** features
 - 🔧 Building a **door-to-door parcel delivery platform**
-- 🧠 Improving backend skills using **MongoDB** and **Firebase**
+- 🧠 Improving backend skills using **Node.js**, **Express.js**, **MongoDB**, and **Firebase**
 - 🎨 Enhancing UI/UX using **Tailwind CSS**
+
 
 ---
 
