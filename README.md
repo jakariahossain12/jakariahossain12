@@ -39,9 +39,9 @@ Firebase · Tailwind CSS · Git · VS Code
 ---
 
 ### 🚩 Featured Projects
-
+<!--
 - [Parcel Delivery Platform](https://github.com/jakariahossain12/parcel-delivery) – Door-to-door parcel delivery solution.
-- [Your Next.js App](https://github.com/jakariahossain12/your-nextjs-app)
+- [Your Next.js App](https://github.com/jakariahossain12/your-nextjs-app)  -->
 <!-- Add or update project links above -->
 
 ---
