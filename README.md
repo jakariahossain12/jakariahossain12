@@ -1,4 +1,5 @@
 <!-- Banner -->
+<!-- Banner -->
 <img src="https://i.imgur.com/NfUOQtx.png" alt="Md Jakaria Banner" style="width:100%; border-radius:12px;" />
 
 <h1 align="center">Hi 👋, I'm Md Jakaria</h1>
