@@ -46,10 +46,7 @@ Firebase · Tailwind CSS · Git · VS Code
 
 ---
 
-### 🏅 Certifications & Achievements
 
-- [Certification Name] – [Issuer], [Year]
-- [Open Source Contribution or Award]
 <!-- Add your real certifications, awards, or contributions here -->
 
 ---
