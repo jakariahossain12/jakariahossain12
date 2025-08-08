@@ -58,6 +58,7 @@ Firebase · Tailwind CSS · Git · VS Code
 <p align="center">
   <a href="mailto:kjakria53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-zakaria-hossain-40b6b6249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <span>whatsapp : +8801877639415</span>
 </p>
 
 ---
