@@ -40,16 +40,12 @@ Firebase · Tailwind CSS · Git · VS Code
 
 ### 🚩 Featured Projects
 
-- [Parcel Delivery Platform](https://github.com/your-username/parcel-delivery) – Door-to-door parcel delivery solution. (React, Node.js, MongoDB). Replace this link with the actual repo or demo.
-- [Your Next.js App](https://github.com/your-username/your-nextjs-app) – Short description of the project and tech used.
 
-Add screenshots, live demo links, and a one-line summary for each project to make them stand out.
 
 ---
 
 ### 🎓 Certifications & Awards
 
-- Add real certifications or awards here (e.g., Coursera, Udemy, Google, etc.). Provide links where possible.
 
 ---
 
@@ -63,9 +59,9 @@ Add screenshots, live demo links, and a one-line summary for each project to mak
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Optional: only include if you want your phone number public -->
-  <!-- <a href="https://wa.me/8801877639415">
+  <a href="https://wa.me/8801877639415">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a> -->
+  </a>
 </p>
 
 ---
@@ -83,12 +79,7 @@ Add screenshots, live demo links, and a one-line summary for each project to mak
 
 <!-- Fallback: if the dynamic badge is down, show a manual language list you can update -->
 ### Top languages (fallback)
-If the image above is blank, the service that generates the badge may be temporarily down. Below is a manual list you can keep updated to ensure visitors still see your main languages.
 
-- JavaScript
-- HTML
-- CSS
-- (Add other languages you use: TypeScript, Python, etc.)
 
 ---
 
