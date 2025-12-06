@@ -55,7 +55,7 @@ Firebase · Tailwind CSS · Git · VS Code
   <a href="mailto:kjakria53@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/md-zakaria-hossain-40b6b6249">
+  <a href="www.linkedin.com/in/md-jakaria53">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Optional: only include if you want your phone number public -->
@@ -72,16 +72,24 @@ Firebase · Tailwind CSS · Git · VS Code
   <img src="https://github-readme-stats.vercel.app/api?username=jakariahossain12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakariahossain12&theme=tokyonight" alt="GitHub streak" />
+</p>
 <!-- Dynamic top languages: may sometimes be blank if the generator is rate-limited/down -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakariahossain12&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
+
+
 <!-- Fallback: if the dynamic badge is down, show a manual language list you can update -->
 ### Top languages (fallback)
+<p align="center">
+  <img src="https://my-stats.vercel.app/api/top-langs?username=jakariahossain12&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-
----
+--
 
 ### 🧠 Fun Fact
 
