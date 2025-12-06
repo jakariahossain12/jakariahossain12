@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 <img src="https://i.ibb.co/gZymrgg6/Screenshot-2025-08-07-221609.png" alt="Md Jakaria banner" style="width:100%; border-radius:12px;" />
 
@@ -75,13 +76,19 @@ Add screenshots, live demo links, and a one-line summary for each project to mak
   <img src="https://github-readme-stats.vercel.app/api?username=jakariahossain12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakariahossain12&theme=tokyonight" alt="GitHub streak" />
-</p>
-
+<!-- Dynamic top languages: may sometimes be blank if the generator is rate-limited/down -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakariahossain12&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
+
+<!-- Fallback: if the dynamic badge is down, show a manual language list you can update -->
+### Top languages (fallback)
+If the image above is blank, the service that generates the badge may be temporarily down. Below is a manual list you can keep updated to ensure visitors still see your main languages.
+
+- JavaScript
+- HTML
+- CSS
+- (Add other languages you use: TypeScript, Python, etc.)
 
 ---
 
